@@ -8,8 +8,8 @@
 1. Save this workbook as `*.xlsm` .
 1. Open `Property` of `ThisWorkBook`.
 1. Change `IsAddin` from `False` to `True`.
-1. Save this workbook as `*.xlam` under `%AppData%\Microsoft\AddIns`.
-1. Select `File / Options`.
+1. Save this workbook as `*.xlam` under `%AppData%/Microsoft/AddIns`.
+1. Select `File/Options`.
 1. Select `Add-ins`.
 1. Click `Go` button at `Manage: Excel Add-ins`
 1. Check the addin.
